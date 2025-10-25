@@ -10,5 +10,5 @@ The most challenging part of the project was generating and integrating the SSL 
 
 To increase layers of security, I applied strong encryption, used secure hashing, and confirmed that the app could only be accessed through HTTPS. After refactoring the code, I re-ran the dependency scan to make sure no new vulnerabilities were introduced. I also checked that the application still functioned correctly and didn’t break after adding new configurations.
 
-The tools and practices I used—like OWASP Dependency-Check, SSL certificate generation, and secure coding principles—will definitely help me in future projects. They showed me how to identify risks early and fix them before deployment. If I were to show this project to a future employer, I’d highlight it as an example of my ability to build and secure web applications following real-world cybersecurity standards.
+The tools and practices I used like OWASP Dependency-Check, SSL certificate generation, and secure coding principles will definitely help me in future projects. They showed me how to identify risks early and fix them before deployment. If I were to show this project to a future employer, I’d highlight it as an example of my ability to build and secure web applications following real-world cybersecurity standards.
 
